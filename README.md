@@ -1,6 +1,6 @@
 # Churn-Analysis-For-Banking-Customers
 
-The dataset is taken from kaggle.com and we have anaysysez it using Power BI. This dataset explians the churning of customers in the banking domain and we have analysed the insights and reasons for it. The follwing data insights are shared below;
+The dataset is taken from kaggle.com and we have analyzed it using Power BI. This dataset explains the reasons and churning of customers in the banking domain and we have analyzed the insights and reasons for it. The following data insights are shared below;
 
 Total customers=10,000
 
@@ -23,7 +23,7 @@ male-321,43%
 female=414
 
 Male active bank account holders have reduced after customers have churned out.
-Overall churn rate is 20.4% which is above than the industry rate (8-12%), the largest contributor in terms of age group is 41-50.
+The overall churn rate is 20.4% which is above the industry rate (8-12%), the largest contributor in terms of age group is 41-50.
 
 The data also shows that the customers who are mostly inactive,63.9% have churned as compared to active customers, means the bank is not giving enough attention towards the customers who only have the bank accounts and have little to no transactions on daily basis.
 
